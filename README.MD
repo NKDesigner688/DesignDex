@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX Designer from India.</h3>
 <br>
 <h3>About Me</h3>
-<h4 align="Center">Hi 👋!My name is Navinkumar Waghmare. I am from Aurangabad Maharashtra. I am Studying in B-tech 2nd Year Computer Science and Engineering. I am completed Diploma also in Computer Engineering after 10th.</h4>
+<h4 align="left">Hi 👋!My name is Navinkumar Waghmare. I am from Aurangabad Maharashtra. I am Studying in B-tech 2nd Year Computer Science and Engineering. I am completed Diploma also in Computer Engineering after 10th.</h4>
 
 
 
