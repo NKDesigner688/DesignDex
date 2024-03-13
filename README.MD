@@ -47,7 +47,7 @@
 
 - 🌱 I’m currently Learning **Figma**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NKDesigner688/DesignDex.git](https://github.com/NKDesigner688/DesignDex.git)
+- 👨‍💻 All of my projects are available at https://www.behance.net/Designdex6
 
 - 💬 Ask me about **Designing**
 
